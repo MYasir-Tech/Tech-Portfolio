@@ -1,0 +1,25 @@
+{
+  "title": "Bash Basics",
+  "category": "linux",
+  "date": "2026-05-22",
+  "author": "Muhammad Yasir",
+  "tags": ["bash", "linux", "terminal"],
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Bash is a Unix shell and command language."
+    },
+    {
+      "type": "heading",
+      "text": "Basic Commands"
+    },
+    {
+      "type": "list",
+      "items": [
+        "ls - list files",
+        "cd - change directory",
+        "pwd - print working directory"
+      ]
+    }
+  ]
+}
